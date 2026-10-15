@@ -10,7 +10,6 @@ I’m an ECE graduate interested in building reliable software close to the hard
 I enjoy solving problems in **C/C++**, exploring **Linux internals**, and developing embedded and systems-level projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rakshithc5-181717?style=for-the-badge&logo=github)](https://github.com/Rakshithc5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
 </div>
 
@@ -62,7 +61,6 @@ I enjoy solving problems in **C/C++**, exploring **Linux internals**, and develo
 I'm open to entry-level opportunities in **Embedded Software, C/C++ Development, and Linux Systems**.
 
 - GitHub: [@Rakshithc5](https://github.com/Rakshithc5)
-- LinkedIn: [Connect with me](https://www.linkedin.com/)
 
 ---
 
