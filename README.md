@@ -23,7 +23,6 @@ I enjoy solving problems in **C/C++**, exploring **Linux internals**, and develo
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Embedded_Systems-263238?style=for-the-badge&logo=arm&logoColor=white" alt="Embedded Systems" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 **Core areas:** Data Structures & Algorithms · Pointers & Memory Management · Linux System Programming · IPC · Process Management · Networking Fundamentals · Microcontrollers
